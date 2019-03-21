@@ -1,2 +1,2 @@
-# Arduino-Pac-Man
-Pac-Man game made with Arduino
+# Arduino Pac-Man clone for GameDuino
+Pac-Man game made with Arduino. School project.
